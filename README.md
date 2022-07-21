@@ -1,6 +1,6 @@
-# 09 Nodejs: README Generator
+# Week 9: README Generator
 
-A README generator which uses command line prompts to create an organized layout for repeatable README documentation. This app will run in terminal and create or rewrite to the root directory. Utilized nodejs, inquirer, and async functions. Technical challenges include:
+A README generator which utilizes the command line prompts to create an organized layout for repeatable README documentation. This app will run in the terminal and create or rewrite to the root directory. Utilized nodejs, inquirer, and async functions. Technical challenges include:
 
 - Promises
 - file system actions
