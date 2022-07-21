@@ -43,12 +43,8 @@
   ```
   npm test
   ```
-
-  ### Contribute
-
-  fda
   
   ### Questions
 
-  Send questions to [fdas](https://github.com/fdas)
+  Send questions to [AshCarr88](https://github.com/AshCarr88)
   
